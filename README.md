@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hixo
 - 🌱 I’m currently learning JavaScript
-- 📫 How to reach me [Discord](https://discord.gg/users/744179276617613382)
+- 📫 How to reach me [Discord](https://discordapp.com/users/744179276617613382)
 
 <!---
 Hixo23/Hixo23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
