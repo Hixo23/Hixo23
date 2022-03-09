@@ -3,7 +3,7 @@
 - 📫 How to reach me [Discord](https://discordapp.com/users/744179276617613382)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hixo23&langs_count=8&theme_name=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hixo23&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Hixo23/Hixo23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
