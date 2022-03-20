@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hixo
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript, 🐍
 - 📫 How to reach me [Discord](https://discordapp.com/users/744179276617613382)
 
 
