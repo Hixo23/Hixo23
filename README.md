@@ -1,6 +1,6 @@
 # About me
 - 👋 Hi, I’m @Hixo
-- 🌱 I’m currently learning JavaScript, 🐍
+- 🌱 I’m currently learning JavaScript, react
 - 📫 How to reach me [Discord](https://discordapp.com/users/744179276617613382)
 
 # Projects
