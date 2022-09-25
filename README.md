@@ -1,4 +1,4 @@
- - 🌱 I’m currently learning **javascript, react**
+ - 🌱 I’m currently learning **javascript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
