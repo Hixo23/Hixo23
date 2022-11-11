@@ -53,7 +53,7 @@
 
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=tyuqix6l8g1lyhsx46omih8hf&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
 
 <br/>  
 
