@@ -22,15 +22,9 @@
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
 
 
 
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
@@ -40,7 +34,7 @@
 <a href="https://github.com/hixo23" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/UCbX3aIveEqnMFRxkkSLl0ig" target="_blank">
+<a href="https://www.youtube.com/channel/UCbX3aIveEqnMFRxkkSLl0ig" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -55,7 +49,6 @@
 <br/>  
 
 
-## Recent Blog Posts  
   
 
 <br/>  
@@ -74,5 +67,3 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
