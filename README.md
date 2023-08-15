@@ -2,6 +2,7 @@
 type Contact = {
     discord: string
 }
+
 class Hixo {
     constructor() {
         this.hobbies: string[] = ["Programming", "Music", "Playing Games"];
