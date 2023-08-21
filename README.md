@@ -4,11 +4,15 @@ type Contact = {
 }
 
 class Hixo {
+    private hobbies : string[] = [];
+    private technologies : string[] = [];
+    private tools: string[] = [];
+    private contact: Contact;
     constructor() {
-        this.hobbies: string[] = ["Programming", "Music", "Playing Games"];
-        this.technologies: string[] = ["React", "NextJS", "TailwindCSS", "React Query", "Typescript"];
-        this.tools: string[] = ["Visual Studio Code", "Vite"];
-        this.contact: Contact = {discord: "_Hixo"} 
+        this.hobbies = ["Programming", "Music", "Playing Games"];
+        this.technologies = ["React", "NextJS", "TailwindCSS", "React Query", "Typescript"];
+        this.tools = ["Visual Studio Code", "Vite"];
+        this.contact = {discord: "_Hixo"} 
     }
 }
 ```
