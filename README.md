@@ -1,5 +1,4 @@
 <h2 align="left">Hi 👋! My name is Hixo</h2>
-<br clear="both">
 <h3 align="left">Im currently learning Vue and PHP</h3>
 
 ###
